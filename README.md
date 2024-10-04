@@ -4,7 +4,7 @@ Introduction:
 
 Intelligent Transport Systems (ITS) play a key role in enhancing the efficiency, safety, and sustainability of road networks. One of the main challenges in ITS is the accurate and timely communication of traffic signs, especially in real-time, for both drivers and autonomous vehicles.
 
-The goal of this project is to develop a mobile application that, using GPS coordinates and communication with a database, detects traffic signs around the user and displays them in real-time. The application enables clear and quick visualization of traffic signs, optimizing the driver's experience, particularly in smart vehicles. Additionally, the app processes the received signs and evaluates their relevance based on the user's geographic location.
+The goal of this project is to adapt a previous project developed in C# into a mobile application. Using GPS coordinates and communication with a database, the mobile app detects traffic signs around the user and displays them in real-time. The application provides a clear and quick visualization of traffic signs, optimizing the driving experience, particularly for smart vehicles. Additionally, the app processes the received signs and evaluates their relevance based on the user's geographic location.
 
 Features:
 
